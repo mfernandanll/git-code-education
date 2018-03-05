@@ -1,6 +1,6 @@
 
 <?php 
 phpinfo();
-echo "teste! ola!";
+echo "teste! hello!";
 
 ?>
